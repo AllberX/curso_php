@@ -1,8 +1,8 @@
 # curso_php 
 
-Conceitos práticos, estrutura lógica, condicional e de repetição do PHP.
-Sessões em um servidor com PHP, conexão do PHP com MySQL usando MySQLi.
-Orientação à Objetos, instalação e configuração de servidor Web.
+Conceitos práticos, estrutura lógica, condicional e de repetição do PHP. <br>
+Sessões em um servidor com PHP, conexão do PHP com MySQL usando MySQLi. <br>
+Orientação à Objetos, instalação e configuração de servidor Web. <br>
 Desenvolvimento de um projeto real - Sistema Web Hospitalar 
 
 ![LocalhostCurso_php-main](https://user-images.githubusercontent.com/44328392/156377873-85521e21-303c-4be3-9193-71548195d931.jpg) 
